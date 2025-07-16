@@ -10,6 +10,6 @@ entries:
     name: matilda-thanos
     type: application
     urls:
-    - https://bkasula@bitbucket.org/matildaapp/devops-modernization.git/matilda-thanos-0.1.0.tgz
+    - https://devops-handy.github.io/helm-test/matilda-thanos-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-16T17:13:20.424401037-04:00"
