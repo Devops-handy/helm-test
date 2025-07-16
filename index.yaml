@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  matilda-thanos:
+  - apiVersion: v2
+    appVersion: v0.31.0
+    created: "2025-07-16T17:13:20.435224751-04:00"
+    description: A Helm chart for deploying Thanos components on Kubernetes.
+    digest: d164370b5287be0448f535c4601381d752369ba6cac739fd6ea38b29f3f3dbe2
+    icon: https://raw.githubusercontent.com/thanos-io/thanos/master/docs/icon/thanos-logo.png
+    name: matilda-thanos
+    type: application
+    urls:
+    - https://bkasula@bitbucket.org/matildaapp/devops-modernization.git/matilda-thanos-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-16T17:13:20.424401037-04:00"
